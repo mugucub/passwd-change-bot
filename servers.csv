@@ -1,0 +1,4 @@
+ip,port,username,old_password,new_password
+192.168.0.44,22,root,qwe123!!,qwe123@@
+192.168.0.191,22,root,qwe123!!,qwe123@@
+192.168.0.192,22,root,qwe123!!,qwe123@@
